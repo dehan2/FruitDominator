@@ -18,7 +18,7 @@
     <ClInclude Include="include\FruitDominator.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="include\KMeansCluster.h">
+    <ClInclude Include="include\Point3.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
@@ -29,11 +29,11 @@
     <ClCompile Include="src\FruitDominator.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="src\KMeansCluster.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="include\ConstForFruitDominator.h">
       <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Point3.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

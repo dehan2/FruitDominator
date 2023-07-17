@@ -20,13 +20,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\FruitDominator.hpp" />
-    <ClInclude Include="include\KMeansCluster.h" />
+    <ClInclude Include="include\Point3.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="include\ConstForFruitDominator.h" />
     <ClCompile Include="src\FruitDominator.cpp" />
-    <ClCompile Include="src\KMeansCluster.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\Point3.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
